@@ -1,0 +1,25 @@
+@import '../utils';
+
+body {
+  width: 1440px;
+  margin: 0 auto;
+  overflow-x: hidden;
+  // font-family: $main-font;
+  // color: $black-color;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  position: relative;
+  margin: 0 auto;
+  padding: 0 80px;
+}
